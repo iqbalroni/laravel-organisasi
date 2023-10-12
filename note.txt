@@ -1,0 +1,39 @@
+Data siswa
+ -id_siswa
+ -Nis
+ -Nama_siswa
+ -Kelas
+ -Jurusan
+ -Jenis_kelamin
+ -Tempat tanggal lahir
+ -Alamat
+ -Status
+ -No telp
+ -Foto
+
+Data guru
+ -id_guru
+ -Nip
+ -Nama_guru
+ -Tempat tanggal lahir
+ -Alamat
+ -Jenis_kelamin
+ -Jurusan yang di ajari
+ -Kelas yang di ajari
+ -No telp
+ -Foto
+
+Data jurusan
+ -id_jurusan
+ -Nama jurusan
+
+Data kelas
+ -id_kelas
+ -nama kelas
+
+Hasil raport
+ -id_raport
+ -file_pdf
+ -nama_siswa
+
+Fitur guru-> bisa mengedit siswa
